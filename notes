@@ -1,2 +1,7 @@
 origin -> origin-wd
+
+export PATH=$PATH:/home/pedro/paas_server/google_appengine/
+
 ~/paas_server/google_appengine/dev_appserver.py ~/workspace/hub/udacity-web-dev/greetings/
+
+~/paas_server/google_appengine/appcfg.py update ~/workspace/hub/udacity-web-dev/greetings/
